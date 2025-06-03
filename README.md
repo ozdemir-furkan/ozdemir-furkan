@@ -1,6 +1,10 @@
-# 👋 Merhaba, Ben Furkan Özdemir!
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=MERHABA BEN FURKAN👋" alt="Typing SVG" /></a>
+</div>
 
-Yazılım geliştirmeye büyük bir tutkuyla bağlıyım ve şu anda kendimi **ASP.NET Core** kullanarak modern, ölçeklenebilir ve yüksek performanslı backend sistemleri geliştirme alanında yetkinleştirmeye odakladım.
+---
+
+Ben Furkan Özdemir! Yazılım geliştirmeye büyük bir tutkuyla bağlıyım ve şu anda kendimi **ASP.NET Core** kullanarak modern, ölçeklenebilir ve yüksek performanslı backend sistemleri geliştirme alanında yetkinleştirmeye odakladım.
 
 ## 🌱 Mevcut Odak Noktalarım ve Hedeflerim
 
@@ -15,9 +19,16 @@ ASP.NET Core ekosisteminde aşağıdaki konulara yoğunlaşarak kendimi gelişti
 
 🚀 Öğrenme yolculuğumda ilerledikçe ve yeni projeler geliştirdikçe bu profili ve projelerimi güncelleyeceğim. GitHub'ı aktif olarak öğrenme sürecimin bir parçası olarak kullanmayı hedefliyorum.
 
-## 📫 Benimle İletişime Geçin
+## 📫 Beni Takip Et & İletişime Geç
 
-- **LinkedIn:** [www.linkedin.com/in/özdemir-furkan]
-- **E-posta:** [furkanozd1231@gmail.com]
+<p align="left">
+  <a href="www.linkedin.com/in/özdemir-furkan" target="_blank" style="margin-right: 10px;">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:furkanozd1231@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Mail"/>
+  </a>
+  </p>
 
+---
 ✨ *Bu profil, yazılım geliştirme serüvenimi ve ASP.NET Core'a olan bağlılığımı yansıtmaktadır.* ✨
