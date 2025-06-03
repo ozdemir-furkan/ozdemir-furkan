@@ -22,7 +22,7 @@ ASP.NET Core ekosisteminde aşağıdaki konulara yoğunlaşarak kendimi gelişti
 ## 📫 Beni Takip Et & İletişime Geç
 
 <p align="left">
-  <a href="www.linkedin.com/in/özdemir-furkan" target="_blank" style="margin-right: 10px;">
+  <a href="linkedin.com/in/özdemir-furkan" target="_blank" style="margin-right: 10px;">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:furkanozd1231@gmail.com" target="_blank">
