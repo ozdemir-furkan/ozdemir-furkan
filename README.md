@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Merhaba, Ben Furkan Özdemir!
 
-<!--
-**ozdemir-furkan/ozdemir-furkan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Yazılım geliştirmeye büyük bir tutkuyla bağlıyım ve şu anda kendimi **ASP.NET Core** kullanarak modern, ölçeklenebilir ve yüksek performanslı backend sistemleri geliştirme alanında yetkinleştirmeye odakladım.
 
-Here are some ideas to get you started:
+## 🌱 Mevcut Odak Noktalarım ve Hedeflerim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ASP.NET Core ekosisteminde aşağıdaki konulara yoğunlaşarak kendimi geliştiriyorum:
+
+- **C# dilinde** derinlemesine yetkinlik kazanmak.
+- **ASP.NET Core Web API** ile güçlü ve güvenli RESTful servisler tasarlamak ve geliştirmek.
+- **Entity Framework Core** kullanarak veritabanı işlemlerini etkin bir şekilde yönetmek.
+- **SOLID prensipleri** ve **Clean Architecture** gibi tasarım desenlerini projelerimde uygulamak.
+- Temel **Docker** ve konteynerleştirme kavramlarını öğrenerek uygulamalarımı taşınabilir hale getirmek.
+- İlerleyen süreçte **mikroservis mimarileri** ve **bulut platformları (Azure/AWS)** hakkında bilgi edinmek.
+
+🚀 Öğrenme yolculuğumda ilerledikçe ve yeni projeler geliştirdikçe bu profili ve projelerimi güncelleyeceğim. GitHub'ı aktif olarak öğrenme sürecimin bir parçası olarak kullanmayı hedefliyorum.
+
+## 📫 Benimle İletişime Geçin
+
+- **LinkedIn:** [www.linkedin.com/in/özdemir-furkan]
+- **E-posta:** [furkanozd1231@gmail.com]
+
+✨ *Bu profil, yazılım geliştirme serüvenimi ve ASP.NET Core'a olan bağlılığımı yansıtmaktadır.* ✨
