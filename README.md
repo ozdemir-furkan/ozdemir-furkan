@@ -22,7 +22,7 @@ ASP.NET Core ekosisteminde aşağıdaki konulara yoğunlaşarak kendimi gelişti
 ## 📫 Beni Takip Et & İletişime Geç
 
 <p align="left">
-  <a href="linkedin.com/in/özdemir-furkan" target="_blank" style="margin-right: 10px;">
+  <a href="https://www.linkedin.com/in/%C3%B6zdemir-furkan?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" style="margin-right: 10px;">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:furkanozd1231@gmail.com" target="_blank">
